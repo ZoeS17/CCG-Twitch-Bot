@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Logger custom ignores #
+## Logger files
+Admins
